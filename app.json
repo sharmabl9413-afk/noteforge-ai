@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "NoteForge AI",
+    "slug": "noteforge-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "description": "AI-powered study notes, revision and practice app.",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F8FC"
+    },
+    "android": {
+      "package": "com.noteforgeai.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F8FC"
+      }
+    }
+  }
+}
